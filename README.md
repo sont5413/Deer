@@ -1,6 +1,6 @@
-# FACTORS INFLUENCING SCALING RELATIONSHIPS OF BODY MASS AND ANTLER MASS IN WHITE-TAILED DEER (ODOCOILEUS VIRGINIANUS)
-* The "lifespan" analysis explores the influence of diet on the relationship between body and antler size throughout the lifespan of a population of white-tailed deer.
-* The "1.5 year old" analysis explores the influence of diet and maternal attributes (i.e., mother's age and litter type) on the relationship between body and antler size in a population of 1.5 year old white-tailed deer.
+# This project assesses the influence of dietary energy and maternal attributes (i.e., mother's age and litter type) on scaling relationships of body mass and antler mass in white-tailed deer
+* The "lifespan" analysis explores the influence of diet energy on the relationship between body mass and antler mass throughout the lifespan of a population of white-tailed deer.
+* The "1.5 year old" analysis explores the influence of diet and maternal attributes on the relationship between body and antler size in a population of 1.5 year old white-tailed deer.
 * antler size and body size were log transformed in the .csv
 
 
